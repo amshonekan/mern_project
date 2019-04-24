@@ -1,0 +1,40 @@
+{
+    "name": "mern_project",
+    "version": "1.0.0",
+    "description": "mern_project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/amshonekan/mern_project.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/amshonekan/mern_project/issues"
+    },
+    "homepage": "https://github.com/amshonekan/mern_project#readme",
+    "dependencies": {
+        "express": "^4.16.4",
+        "mongodb": "^3.2.3",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "react-hot-loader": "^4.8.4"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.4.3",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^8.0.5",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-stage-2": "^6.24.1",
+        "nodemon": "^1.18.11",
+        "webpack": "^4.30.0",
+        "webpack-cli": "^3.3.1",
+        "webpack-dev-middleware": "^3.6.2",
+        "webpack-hot-middleware": "^2.24.3",
+        "webpack-node-externals": "^1.7.2"
+    }
+}
